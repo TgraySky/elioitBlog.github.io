@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mr.Robot</title>
+    <link>https://tgraysky.github.io/elioitBlog.github.io/categories/</link>
+    <description>Recent content in Categories on Mr.Robot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Apr 2022 11:20:22 +0800</lastBuildDate><atom:link href="https://tgraysky.github.io/elioitBlog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>百宝箱</title>
+      <link>https://tgraysky.github.io/elioitBlog.github.io/categories/%E7%99%BE%E5%AE%9D%E7%AE%B1/</link>
+      <pubDate>Thu, 28 Apr 2022 11:20:22 +0800</pubDate>
+      
+      <guid>https://tgraysky.github.io/elioitBlog.github.io/categories/%E7%99%BE%E5%AE%9D%E7%AE%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>极客教程</title>
+      <link>https://tgraysky.github.io/elioitBlog.github.io/categories/%E6%9E%81%E5%AE%A2%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Fri, 15 Apr 2022 13:18:48 +0800</pubDate>
+      
+      <guid>https://tgraysky.github.io/elioitBlog.github.io/categories/%E6%9E%81%E5%AE%A2%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>渗透测试</title>
+      <link>https://tgraysky.github.io/elioitBlog.github.io/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 15 Apr 2022 13:18:48 +0800</pubDate>
+      
+      <guid>https://tgraysky.github.io/elioitBlog.github.io/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>编程开发</title>
+      <link>https://tgraysky.github.io/elioitBlog.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Fri, 15 Apr 2022 13:18:48 +0800</pubDate>
+      
+      <guid>https://tgraysky.github.io/elioitBlog.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络安全</title>
+      <link>https://tgraysky.github.io/elioitBlog.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Fri, 15 Apr 2022 13:18:48 +0800</pubDate>
+      
+      <guid>https://tgraysky.github.io/elioitBlog.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
